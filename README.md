@@ -70,7 +70,7 @@ Servlet_LoginLogout
 ![Login Page](Login-with-welcome-page.png)
 
 ## Password wrong then show this 
-![Logout Page](logout-page.png)
+![Logout Page](wrong-page.png)
 
 ### 🚪 Logout
 ![Logout Page](Logout.png)
