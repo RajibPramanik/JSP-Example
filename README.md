@@ -67,11 +67,14 @@ Servlet_LoginLogout
 ## 📸 Screenshots
 
 ### 🔐 Login with Welcome Page
-![Login Page](Login-with-Welcome-page.png)
+![Login Page](Login-with-welcome-page.png)
 
+## Password wrong then show this 
+![Logout Page](logout-page.png)
 
 ### 🚪 Logout
-![Logout Page](logout-page.png)
+![Logout Page](Logout.png)
+
 
 ---
 
