@@ -6,7 +6,6 @@ It shows how to create, manage, and invalidate user sessions in a Servlet-based 
 ---
 
 ## 📌 Project Overview
-
 Managing user sessions is essential in web applications to track user login status across multiple requests.
 In this project, **HttpSession** is used to:
 
@@ -17,7 +16,6 @@ In this project, **HttpSession** is used to:
 ---
 
 ## 🛠 Technologies Used
-
 * Java (JDK 8+)
 * Java Servlets
 * JSP
