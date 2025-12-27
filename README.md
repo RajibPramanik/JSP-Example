@@ -31,7 +31,7 @@ In this project, **HttpSession** is used to:
 Servlet_LoginLogout
 │
 ├── src
-│   ├── LoginServlet.java
+│   ├── RequestServlet.java
 │   └── LogoutServlet.java
 │
 ├── WebContent
