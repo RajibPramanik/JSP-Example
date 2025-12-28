@@ -32,7 +32,7 @@ Servlet_LoginLogout
 │
 ├── src
 │   ├── RequestServlet.java
-│   └── LogoutServlet.java
+│   └── ResponseServlet.java
 │
 ├── WebContent
 │   ├── login.jsp
