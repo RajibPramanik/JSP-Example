@@ -28,7 +28,7 @@ In this project, **HttpSession** is used to:
 ## 📂 Project Structure
 
 ```
-Servlet_LoginLogout
+LoginLogout_Servlet
 │
 ├── src
 │   ├── RequestServlet.java
