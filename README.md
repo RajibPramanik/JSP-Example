@@ -1,7 +1,7 @@
 # JSP-Example
 ## Servlet – HttpSession Login and Logout Example
 This project demonstrates a **basic Login and Logout system using Java Servlets and HttpSession**.
-It shows how to create, manage, and invalidate user sessions in a Servlet-based web application.
+It shows how to create, manage, and invalidate user sessions in a Servlet-based web applications.
 
 ---
 
